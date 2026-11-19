@@ -17,7 +17,7 @@ API_HASH = "51692e60b12c2432522aa19fd9d221cd"
 # خواندن رشته سشن از فایل متنی مخصوص هر اکانت
 SESSION_FILE = "Session4.text"
 
-TEXT_FILE_PATH = "number.text"
+TEXT_FILE_PATH = "numbers.text"
 TARGET_CHAT = "Havij_robot"
 # ========================================================
 
