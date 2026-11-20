@@ -5,14 +5,14 @@ from telethon.sessions import StringSession
 
 # ========================================================
 # 🎛️ تنظیمات اصلی و اختصاصی
-START_LINE = 3931
+START_LINE = 3971
 END_LINE = 10000
 
 # تعداد دقیق پیامی که بعد از رسیدن به آن، همه چیز متوقف می‌شود
 MAX_MESSAGES = 10000
 
-API_ID = 34082613
-API_HASH = "51692e60b12c2432522aa19fd9d221cd"
+API_ID = 33136808
+API_HASH = "04c1bc75b562824a495fd71002c27e27"
 
 # خواندن رشته سشن از فایل متنی مخصوص هر اکانت
 SESSION_FILE = "Session4.text"
